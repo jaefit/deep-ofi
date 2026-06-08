@@ -1,0 +1,514 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 10,
+    "input": "ofi_best",
+    "model": "logistic",
+    "n_feat": 1,
+    "macro_f1": 0.3174135264814338
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 10,
+    "input": "ofi_best",
+    "model": "mlp",
+    "n_feat": 1,
+    "macro_f1": 0.29393730996784434
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 10,
+    "input": "ofi_multi",
+    "model": "logistic",
+    "n_feat": 20,
+    "macro_f1": 0.3182638350637982
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 10,
+    "input": "ofi_multi",
+    "model": "mlp",
+    "n_feat": 20,
+    "macro_f1": 0.3595767855321012
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 10,
+    "input": "raw",
+    "model": "logistic",
+    "n_feat": 80,
+    "macro_f1": 0.34293878590039184
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 10,
+    "input": "raw",
+    "model": "mlp",
+    "n_feat": 80,
+    "macro_f1": 0.4322406372606317
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 10,
+    "input": "raw_plus_ofi",
+    "model": "logistic",
+    "n_feat": 100,
+    "macro_f1": 0.3497308209969696
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 10,
+    "input": "raw_plus_ofi",
+    "model": "mlp",
+    "n_feat": 100,
+    "macro_f1": 0.4121703353172099
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 20,
+    "input": "ofi_best",
+    "model": "logistic",
+    "n_feat": 1,
+    "macro_f1": 0.3111416821118614
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 20,
+    "input": "ofi_best",
+    "model": "mlp",
+    "n_feat": 1,
+    "macro_f1": 0.28409546720875106
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 20,
+    "input": "ofi_multi",
+    "model": "logistic",
+    "n_feat": 20,
+    "macro_f1": 0.3094588878903
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 20,
+    "input": "ofi_multi",
+    "model": "mlp",
+    "n_feat": 20,
+    "macro_f1": 0.36807416043842817
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 20,
+    "input": "raw",
+    "model": "logistic",
+    "n_feat": 80,
+    "macro_f1": 0.3565721597134481
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 20,
+    "input": "raw",
+    "model": "mlp",
+    "n_feat": 80,
+    "macro_f1": 0.403819217791148
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 20,
+    "input": "raw_plus_ofi",
+    "model": "logistic",
+    "n_feat": 100,
+    "macro_f1": 0.3576921753103471
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 20,
+    "input": "raw_plus_ofi",
+    "model": "mlp",
+    "n_feat": 100,
+    "macro_f1": 0.41305574799285516
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 50,
+    "input": "ofi_best",
+    "model": "logistic",
+    "n_feat": 1,
+    "macro_f1": 0.29265791162197397
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 50,
+    "input": "ofi_best",
+    "model": "mlp",
+    "n_feat": 1,
+    "macro_f1": 0.3803788999003293
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 50,
+    "input": "ofi_multi",
+    "model": "logistic",
+    "n_feat": 20,
+    "macro_f1": 0.304893248139122
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 50,
+    "input": "ofi_multi",
+    "model": "mlp",
+    "n_feat": 20,
+    "macro_f1": 0.3734402409102609
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 50,
+    "input": "raw",
+    "model": "logistic",
+    "n_feat": 80,
+    "macro_f1": 0.40047769381700826
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 50,
+    "input": "raw",
+    "model": "mlp",
+    "n_feat": 80,
+    "macro_f1": 0.4021846884642242
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 50,
+    "input": "raw_plus_ofi",
+    "model": "logistic",
+    "n_feat": 100,
+    "macro_f1": 0.3916748586429273
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 50,
+    "input": "raw_plus_ofi",
+    "model": "mlp",
+    "n_feat": 100,
+    "macro_f1": 0.3905881144694369
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 100,
+    "input": "ofi_best",
+    "model": "logistic",
+    "n_feat": 1,
+    "macro_f1": 0.35365169852946626
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 100,
+    "input": "ofi_best",
+    "model": "mlp",
+    "n_feat": 1,
+    "macro_f1": 0.45144067949620537
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 100,
+    "input": "ofi_multi",
+    "model": "logistic",
+    "n_feat": 20,
+    "macro_f1": 0.3738839808978108
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 100,
+    "input": "ofi_multi",
+    "model": "mlp",
+    "n_feat": 20,
+    "macro_f1": 0.3828691640565624
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 100,
+    "input": "raw",
+    "model": "logistic",
+    "n_feat": 80,
+    "macro_f1": 0.42561129278940163
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 100,
+    "input": "raw",
+    "model": "mlp",
+    "n_feat": 80,
+    "macro_f1": 0.3749901612240352
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 100,
+    "input": "raw_plus_ofi",
+    "model": "logistic",
+    "n_feat": 100,
+    "macro_f1": 0.4173548816374346
+  },
+  {
+    "symbol": "BTCUSDT",
+    "horizon": 100,
+    "input": "raw_plus_ofi",
+    "model": "mlp",
+    "n_feat": 100,
+    "macro_f1": 0.35889098718878176
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 10,
+    "input": "ofi_best",
+    "model": "logistic",
+    "n_feat": 1,
+    "macro_f1": 0.2946880129346024
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 10,
+    "input": "ofi_best",
+    "model": "mlp",
+    "n_feat": 1,
+    "macro_f1": 0.26482188406645774
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 10,
+    "input": "ofi_multi",
+    "model": "logistic",
+    "n_feat": 20,
+    "macro_f1": 0.29528683119755855
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 10,
+    "input": "ofi_multi",
+    "model": "mlp",
+    "n_feat": 20,
+    "macro_f1": 0.36306649393257956
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 10,
+    "input": "raw",
+    "model": "logistic",
+    "n_feat": 80,
+    "macro_f1": 0.3665683718631994
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 10,
+    "input": "raw",
+    "model": "mlp",
+    "n_feat": 80,
+    "macro_f1": 0.45275923946382174
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 10,
+    "input": "raw_plus_ofi",
+    "model": "logistic",
+    "n_feat": 100,
+    "macro_f1": 0.3762641425167342
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 10,
+    "input": "raw_plus_ofi",
+    "model": "mlp",
+    "n_feat": 100,
+    "macro_f1": 0.4368278220285002
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 20,
+    "input": "ofi_best",
+    "model": "logistic",
+    "n_feat": 1,
+    "macro_f1": 0.28824595066786896
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 20,
+    "input": "ofi_best",
+    "model": "mlp",
+    "n_feat": 1,
+    "macro_f1": 0.3455256990011823
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 20,
+    "input": "ofi_multi",
+    "model": "logistic",
+    "n_feat": 20,
+    "macro_f1": 0.3311828469432479
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 20,
+    "input": "ofi_multi",
+    "model": "mlp",
+    "n_feat": 20,
+    "macro_f1": 0.36227070915756676
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 20,
+    "input": "raw",
+    "model": "logistic",
+    "n_feat": 80,
+    "macro_f1": 0.432127216086392
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 20,
+    "input": "raw",
+    "model": "mlp",
+    "n_feat": 80,
+    "macro_f1": 0.4259475273169187
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 20,
+    "input": "raw_plus_ofi",
+    "model": "logistic",
+    "n_feat": 100,
+    "macro_f1": 0.42721524558868795
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 20,
+    "input": "raw_plus_ofi",
+    "model": "mlp",
+    "n_feat": 100,
+    "macro_f1": 0.4190361673929521
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 50,
+    "input": "ofi_best",
+    "model": "logistic",
+    "n_feat": 1,
+    "macro_f1": 0.3728267651023763
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 50,
+    "input": "ofi_best",
+    "model": "mlp",
+    "n_feat": 1,
+    "macro_f1": 0.3977679479537983
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 50,
+    "input": "ofi_multi",
+    "model": "logistic",
+    "n_feat": 20,
+    "macro_f1": 0.3997670374576387
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 50,
+    "input": "ofi_multi",
+    "model": "mlp",
+    "n_feat": 20,
+    "macro_f1": 0.34314323674168845
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 50,
+    "input": "raw",
+    "model": "logistic",
+    "n_feat": 80,
+    "macro_f1": 0.4477830104283953
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 50,
+    "input": "raw",
+    "model": "mlp",
+    "n_feat": 80,
+    "macro_f1": 0.38896541746865115
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 50,
+    "input": "raw_plus_ofi",
+    "model": "logistic",
+    "n_feat": 100,
+    "macro_f1": 0.44785459907196373
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 50,
+    "input": "raw_plus_ofi",
+    "model": "mlp",
+    "n_feat": 100,
+    "macro_f1": 0.3883617043539939
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 100,
+    "input": "ofi_best",
+    "model": "logistic",
+    "n_feat": 1,
+    "macro_f1": 0.3546423141413937
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 100,
+    "input": "ofi_best",
+    "model": "mlp",
+    "n_feat": 1,
+    "macro_f1": 0.3731735375168766
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 100,
+    "input": "ofi_multi",
+    "model": "logistic",
+    "n_feat": 20,
+    "macro_f1": 0.34729641705985825
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 100,
+    "input": "ofi_multi",
+    "model": "mlp",
+    "n_feat": 20,
+    "macro_f1": 0.3386714176488251
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 100,
+    "input": "raw",
+    "model": "logistic",
+    "n_feat": 80,
+    "macro_f1": 0.3777758687832817
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 100,
+    "input": "raw",
+    "model": "mlp",
+    "n_feat": 80,
+    "macro_f1": 0.36037069752102674
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 100,
+    "input": "raw_plus_ofi",
+    "model": "logistic",
+    "n_feat": 100,
+    "macro_f1": 0.3793069473099652
+  },
+  {
+    "symbol": "ETHUSDT",
+    "horizon": 100,
+    "input": "raw_plus_ofi",
+    "model": "mlp",
+    "n_feat": 100,
+    "macro_f1": 0.3501578791422813
+  }
+]

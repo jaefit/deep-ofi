@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+data/*.jsonl
+data/*.json
+!data/.gitkeep
+.DS_Store
+.ipynb_checkpoints/
+
+# AI assistant local files
+CLAUDE.md
+AGENTS.md
+.claude/
+.cursor/
+.aider*
